@@ -2,6 +2,7 @@ import socket
 import re
 
 """
+Implements and logic by Rei Shaul - reishaul1@gmail.com
 This module implements a TCP client using a sliding window protocol for reliable message transmission.
 
 Key Features:
